@@ -52,6 +52,7 @@ body {
   opacity: 0;
   background-color: #8B008B;
 }
+
 .body-container {
   background-color: #FDE74C;
   display: flex;
@@ -92,7 +93,7 @@ body {
 }
 
 .my-interests{
-  text-align: center;
+  
   width: 80%;
   margin-bottom: 40px;
   color: white:

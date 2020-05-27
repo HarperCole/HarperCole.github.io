@@ -115,7 +115,7 @@ function isMobile() {
   return window.innerWidth < 700;
 }
 
-(function() {
+( function() {
   const SHAPE_CLASSES = ["triangle", "circle", "square"];
   const shapes = [];
   const mainCallout = document.querySelector(".main-callout");
