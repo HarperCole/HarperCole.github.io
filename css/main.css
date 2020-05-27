@@ -90,6 +90,28 @@ body {
   margin-bottom: 40px;
   color: white;
 }
+
+.my-interests{
+  text-align: center;
+  width: 80%;
+  margin-bottom: 40px;
+  color: white:
+}
+.current-projects{
+  text-align: center;
+  width: 80%;
+  margin-bottom: 40px;
+  color: white;
+}
+.column{
+  float: left;
+  width: 50%;
+}
+.row:after{
+  content: "";
+  display: table;
+  clear: both;
+}
 .thanks{
   text-align: center;
   width: 80%;
@@ -106,6 +128,12 @@ body {
 }
 .pewter {
   background-color: #D3D3CB;
+}
+.sage{
+  background-color: #86785C;
+}
+.burnt-sienna{
+  background-color: #B78326;
 }
 .image-container {
   position: relative;
